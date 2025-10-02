@@ -1,5 +1,0 @@
-{
-  "in_file": "docker-system.log",
-  "matches": ["segfault"],
-  "description": "[INVESTIGATE THE ISSUE]"
-}

@@ -1,5 +1,0 @@
-{
-  "in_file": "docker-system.log",
-  "matches": ["Saved crash report for"],
-  "description": "[INVESTIGATE THE ISSUE]"
-}

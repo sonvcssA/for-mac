@@ -1,5 +1,0 @@
-{
-  "in_file": "docker-system.log",
-  "matches": ["State not recoverable"],
-  "description": "[INVESTIGATE THE ISSUE]"
-}
